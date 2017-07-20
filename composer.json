@@ -1,0 +1,21 @@
+{
+	"name" : "nih-fo/plugin-php-excel",
+	"description" : "CakePHP Plugin: Parses, reads, and writes Excel files.",
+	"type" : "cakephp-plugin",
+	"keywords" : ["cakephp", "plugin", "php-excel"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Brian French",
+			"role": "Developer"
+		},
+		{
+			"name": "Joshua Knust",
+			"role": "Manager"
+		} 
+	],
+	"require": {
+		"nih-fo/plugin-utilities": "1.*",
+		"phpoffice/phpexcel": "1.*"
+	}
+}
