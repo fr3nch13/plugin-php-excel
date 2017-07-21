@@ -3,7 +3,7 @@
 	"description" : "CakePHP Plugin: Parses, reads, and writes Excel files.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "php-excel"],
-	"license": "proprietary",
+	"license": "mit",
 	"authors": [
 		{
 			"name": "Brian French",
