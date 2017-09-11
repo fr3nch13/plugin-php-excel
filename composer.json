@@ -1,5 +1,5 @@
 {
-	"name" : "nih-fo/plugin-php-excel",
+	"name" : "fr3nch13/plugin-php-excel",
 	"description" : "CakePHP Plugin: Parses, reads, and writes Excel files.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "php-excel"],
@@ -15,7 +15,7 @@
 		} 
 	],
 	"require": {
-		"nih-fo/plugin-utilities": "1.*",
+		"fr3nch13/plugin-utilities": "1.*",
 		"phpoffice/phpexcel": "1.*"
 	}
 }
